@@ -75,3 +75,11 @@ This project is open-source under the MIT License.
 ## **Warning**
 
 🚨 Do not expose your OpenAI API key in public repositories! Remove it from the code and use environment variables instead.
+
+## **Output**
+
+![image](https://github.com/user-attachments/assets/76fdf1f9-0477-460b-998c-8a865f647539)
+![image](https://github.com/user-attachments/assets/47995619-fec0-4495-971e-7de7a3213c62)
+![image](https://github.com/user-attachments/assets/6be40d3c-20fc-4557-ac23-0e570fbdfb55)
+![image](https://github.com/user-attachments/assets/090dc55d-6e78-4182-916b-7a55267e2576)
+
