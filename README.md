@@ -1,8 +1,8 @@
-MealFit
+# **MealFit**
 
 MealFit is an AI-powered meal recommendation system designed for university students. It provides personalized meal suggestions based on dietary preferences and health conditions such as diabetes, high blood pressure, and allergies. The app features an AI chatbot that helps users filter meals by ingredients they want to avoid.
 
-Features
+## **Features**
 
 AI Chatbot: Ask meal-related questions and get responses powered by OpenAI's GPT.
 
@@ -12,7 +12,7 @@ Ingredient Exclusion: Avoid meals containing specific ingredients.
 
 Meal Information: Displays meal images, ingredients, and health benefits.
 
-Installation
+## **Installation**
 
 To run MealFit locally, follow these steps:
 
@@ -36,7 +36,7 @@ Run the Streamlit app:
 
 streamlit run app.py
 
-Dependencies
+## **Dependencies**
 
 This project requires the following Python libraries:
 
@@ -50,7 +50,7 @@ Install them using:
 
 pip install streamlit openai pandas
 
-Usage
+## **Usage**
 
 Launch the app with streamlit run app.py.
 
@@ -60,7 +60,7 @@ Browse recommended meals with images and descriptions.
 
 Use the AI chatbot to ask meal-related questions.
 
-Future Enhancements
+## **Future Enhancements**
 
 Integration with a nutrition API for detailed meal analysis.
 
@@ -68,10 +68,10 @@ User authentication for saving preferences.
 
 Expansion of meal database with more diverse options.
 
-License
+## **License**
 
 This project is open-source under the MIT License.
 
-Warning
+## **Warning**
 
 🚨 Do not expose your OpenAI API key in public repositories! Remove it from the code and use environment variables instead.
