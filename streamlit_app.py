@@ -3,7 +3,7 @@ import openai
 import pandas as pd
 
 # Set OpenAI API key for GPT-based chatbot
-openai.api_key = "sk-SbeDydnmKdZqpfrDWFwkNVIoSlrP7jUVfpA1R2cU7KT3BlbkFJWD2uM1yfdhEi_oy23v9aIZSGKkD8u252ZjjI9XyFwA"  # Replace with your actual key
+openai.api_key = " "  # Replace with your actual key
 
 # Placeholder dataset for demo purposes, including image URLs
 meal_data = pd.DataFrame({
